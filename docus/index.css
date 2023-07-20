@@ -1,0 +1,8 @@
+/* Custom CSS for smooth transitions and animations */
+.emoji-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.emoji-card:hover {
+  transform: scale(1.05);
+}
